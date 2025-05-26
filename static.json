@@ -1,6 +1,6 @@
 {
   "public": "dist/foxtour",
   "routes": {
-    "/**": "src/index.html"
+    "/**": "index.html"
   }
 }
